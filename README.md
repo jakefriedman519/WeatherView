@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  ![screenshot](TitlePic.png)
+  
   <br>
   WeatherView
   <br>
@@ -21,6 +21,7 @@
 ![screenshot](WelcomePage.png)
 ![screenshot](datapage.png)
 ![screenshot](ExitPage.png)
+![screenshot](TitlePic.png)
 
 ## Key Features
 
