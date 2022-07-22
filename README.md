@@ -21,7 +21,7 @@
 ![screenshot](WelcomePage.png)
 ![screenshot](datapage.png)
 ![screenshot](ExitPage.png)
-![screenshot](TitlePic.png)
+
 
 ## Key Features
 
