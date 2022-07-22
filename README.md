@@ -7,7 +7,7 @@
   <br>
 </h1>
 
-<h4 align="center">A Comprehensive Easy To Use Weather Service Application</h4>
+<h4 align="center">A Comprehensive, Easy To Use Weather Service Application</h4>
 
 
 
@@ -25,8 +25,8 @@
 
 ## Key Features
 
-* Real time temperature, wind, and cloud cover information
-* Daily maximum and minimum tempature statistics
+* Real-time temperature, wind, and cloud cover information
+* Daily maximum and minimum temperature statistics
 * Sunrise and sunset times
 * Daily precipitation information 
 
@@ -34,7 +34,7 @@
 
 ## How To Use
 
-Simply download the code into your favorite command line editor and run using Python. Very easy and simple to use!
+To run the application, simply run the main.py file and you're ready to go!
 
 ## Credits
 
