@@ -70,9 +70,6 @@ class weatherAPI:
 
 t = weatherAPI("https://api.open-meteo.com/v1/forecast?latitude=40.71&longitude=-74.01&daily=temperature_2m_max,temperature_2m_min,sunrise,sunset,precipitation_sum&current_weather=true&temperature_unit=fahrenheit&windspeed_unit=mph&precipitation_unit=inch&timezone=America%2FNew_York")
 t.getWeather()
-for weather_stat in t.weather:
-  print(weather_stat + ": ", end="")
-  print(t.weather[weather_stat])
 
 
 
