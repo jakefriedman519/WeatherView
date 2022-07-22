@@ -1,4 +1,7 @@
 
+<h1 align="center">
+  <br>
+  
   <br>
   WeatherView
   <br>
@@ -43,4 +46,4 @@ This software uses the following open source packages:
 
 ## License
 
-MIT
+MIT License
