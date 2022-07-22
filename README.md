@@ -39,9 +39,8 @@ Simply download the code into your favorite command line editor and run using Py
 
 This software uses the following open source packages:
 
-- [tKinter]([http://electron.atom.io/](https://docs.python.org/3/library/tkinter.html)
-- [requests]([https://nodejs.org/](https://pypi.org/project/requests/)
-
+- [tKinter][http://electron.atom.io/](https://docs.python.org/3/library/tkinter.html
+- [requests][https://nodejs.org/](https://pypi.org/project/requests/
 
 ## License
 
