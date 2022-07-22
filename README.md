@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
- ![screenshot](https://github.com/jglatzer/WeatherView/blob/c35f4f869be4575707910a9056e42beb9427da43/129-1293911_weather-icons-stock-vector-sunshine-weather-icon-transparent.png)
+ ![screenshot](129-1293911_weather-icons-stock-vector-sunshine-weather-icon-transparent.png)
   <br>
   Markdownify
   <br>
