@@ -33,6 +33,8 @@
 </p>
 
 ![screenshot](WelcomePage.png)
+![screenshot](datapage.png)
+![screenshot](ExitPage.png)
 
 ## Key Features
 
