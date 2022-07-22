@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align="center">A Comprehensive Easy To Use Weather Service Application
+<h4 align="center">A Comprehensive Easy To Use Weather Service Application</h4>
 
 
 
