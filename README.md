@@ -24,11 +24,11 @@
 
 ## Key Features
 
-* 
-* Sync Scrolling
-  - While you type, LivePreview will automatically scroll to the current location you're editing.
-* GitHub Flavored Markdown  
-* Syntax highlighting
+* Real time temperature, wind, and cloud cover information
+* Daily maximum and minimum tempature statistics
+* Sunrise and sunset times
+* Daily precipitation information 
+
 
 
 ## How To Use
@@ -41,6 +41,7 @@ This software uses the following open source packages:
 
 - [tKinter](https://docs.python.org/3/library/tkinter.html)
 - [requests](https://pypi.org/project/requests/)
+- [Open-Meteo](https://open-meteo.com/en)
 
 ## License
 
